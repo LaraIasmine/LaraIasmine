@@ -23,7 +23,7 @@ const LaraIasmine = {
 </div> 
 
 <div style="display: inline_block"><br> 
-    <img align="center" widht="200cm" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=LaraIasmine&langs_count=8&theme=dracula&layout=compact"/>
+    <img align="center" widht="200cm" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=LaraIasmine&hide=Dockerfile&langs_count=8&theme=dracula&layout=compact"/>
     <img align="right" alt="Pandas" heigh="300" width="400" src = "https://mir-s3-cdn-cf.behance.net/project_modules/disp/c8795532318437.567a06124c9da.gif"/>
 </div> 
 
