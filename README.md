@@ -1,5 +1,5 @@
 
-```
+```js
 const LaraIasmine = {
     name: "Lara Iasmine",
     pronouns: "she" | "her",
