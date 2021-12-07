@@ -1,4 +1,21 @@
-### Hi there 👋
+
+```
+const LaraIasmine = {
+    name: "Lara Iasmine",
+    pronouns: "she" | "her",
+    age: "24",
+    based: "brazil",
+    learning: ["javascript", "python", "pandas"],
+    currentTools:["basic-javascript", "reeeeeeally-basic-typescript", "CSS", "HTML"],
+    askMeAbout: ["anything"],
+    funFacts: {
+        aboutCoding:  ["self-taught", "late bloomer", "adventurous", "curious"],
+        aboutLife: ["amateur musician", "gemini", "cat-lady"]
+    },
+    currentFocus: "Learning DataScience and growing my skillset in algorithm writing",
+    favoriteQuote: "Life is what happens when you're busy making other plans. -John Lennon"
+};
+``` 
 
 <!--
 **LaraIasmine/LaraIasmine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
